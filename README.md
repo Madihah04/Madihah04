@@ -1,3 +1,7 @@
+<h1 align="center">Holla 👋
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Madihah</h1>
+<h3 align="center">A passionate frontend developer</h3>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Tgw604MyLJnDtbi4t0/giphy.gif" width="300"/>
 </div>
@@ -14,10 +18,7 @@
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?Madihah04&style=flat-square&color=blue" alt=""/>
 
-<h1 align="center">Holla 👋, I'm Madihah</h1>
-<h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madihah04&label=Profile%20views&color=0e75b6&style=flat" alt="madihah04" /> </p>
 
@@ -44,13 +45,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madihah04&" alt="madihah04" /></p>
 
-
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-### Hi there 👋
 
 <!--
 **Madihah04/Madihah04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
