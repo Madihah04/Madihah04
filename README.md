@@ -13,10 +13,6 @@
   <a href="https://www.youtube.com/channel/UCx-OLj2d3vO16yEAH0tbxWA">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://www.instagram.com/madihahzabri">
-    <img src="https://img.shields.io/badge/Instagram-#DD2A7B?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  
   <a href="https://www.kaggle.com/madihahutm">
     <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="my-kaggle-profile"/>
   </a>
