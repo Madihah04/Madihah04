@@ -16,6 +16,11 @@
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  
+  <a href="https://www.kaggle.com/smewara">
+    <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=kaggle&style=flat&color=20BEFF&logo=kaggle" alt="my-kaggle-profile"/>
+  </a>
+  
 </div>
 
 <br>
@@ -27,7 +32,6 @@
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<p align="center"> <a href="https://www.kaggle.com/smewara"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=kaggle&style=flat&color=20BEFF&logo=kaggle" alt="my-kaggle-profile"/></a> </p>
 
 - 🔭 I’m currently working on [https:](https:)
 
