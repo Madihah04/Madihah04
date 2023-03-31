@@ -18,7 +18,7 @@
   </a>
   
   <a href="https://www.kaggle.com/madihahutm">
-    <img src="https://drive.google.com/file/d/1NiIbBP5nOaKqEEDQO5OmQ-WfTElgbye1/view?usp=sharing" alt="my-kaggle-profile"/>
+    <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="my-kaggle-profile"/>
   </a>
   
 </div>
