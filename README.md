@@ -17,8 +17,8 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   
-  <a href="https://www.kaggle.com/smewara">
-    <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=kaggle&style=flat&color=20BEFF&logo=kaggle" alt="my-kaggle-profile"/>
+  <a href="https://www.kaggle.com/madihahutm">
+    <img src="https://drive.google.com/file/d/1NiIbBP5nOaKqEEDQO5OmQ-WfTElgbye1/view?usp=sharing" alt="my-kaggle-profile"/>
   </a>
   
 </div>
