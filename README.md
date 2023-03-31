@@ -47,14 +47,11 @@
 <br>
 <br>
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=madihah04&show_icons=true&locale=en&layout=compact" alt="madihah04" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=madihah04&show_icons=true&locale=en" alt="madihah04" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madihah04&" alt="madihah04" /></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madihah04&show_icons=true&locale=en&layout=compact&show_icons=true&theme=gotham" alt="Madihah" />
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=madihah04&show_icons=true&theme=gotham" alt="Madihah" />
+
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=madihah04&&show_icons=true&theme=gotham" alt="Madihah" />
 
 <!--
 **Madihah04/Madihah04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
