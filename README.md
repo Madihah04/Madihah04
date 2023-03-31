@@ -10,15 +10,15 @@
   <a href="https://www.linkedin.com/in/madihah-che-zabri-a25052204/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://www.youtube.com/channel/UCx-OLj2d3vO16yEAH0tbxWA">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  <a href="https://www.instagram.com/madihahzabri/">
+    <img src="https://img.shields.io/badge/Instagram-#DD2A7B?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   
   <a href="https://www.kaggle.com/madihahutm">
-    <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="my-kaggle-profile"/>
+    <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="my-kaggle-profile"/>
   </a>
   
 </div>
@@ -28,7 +28,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=madihah04&label=Profile%20views&color=0e75b6&style=flat" alt="madihah04" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madihah04" alt="madihah04" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madihah04&column=3&margin-w=15&margin-h=15" alt="madihah04" /></a> </p>
+
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
