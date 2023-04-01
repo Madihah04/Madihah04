@@ -1,6 +1,6 @@
-<h1 align="center"<a href="https://madihah04.github.io"><img width="95%" alt="header" src="header.png" /></a></h1>
+<h1 align="center"<a href="https://madihah04.github.io"><img width="100%" alt="header" src="header.png" /></a></h1>
 
-<h2 align="center"><img src="https://media.giphy.com/media/lgPVnjdVYshd8MfhYR/giphy.gif" width="35px"/><img src="https://media.giphy.com/media/By0BVzrbAZ0Eo/giphy.gif" width="30px"/>A passionate data enginering student<img src="https://media.giphy.com/media/By0BVzrbAZ0Eo/giphy.gif" width="30px"/><img src="https://media.giphy.com/media/lgPVnjdVYshd8MfhYR/giphy.gif" width="35px"/></h2>
+<h2 align="center"><img src="https://media.giphy.com/media/lgPVnjdVYshd8MfhYR/giphy.gif" width="35px"/><img src="https://media.giphy.com/media/By0BVzrbAZ0Eo/giphy.gif" width="30px"/>Holla, I'm Madihah<img src="https://media.giphy.com/media/By0BVzrbAZ0Eo/giphy.gif" width="30px"/><img src="https://media.giphy.com/media/lgPVnjdVYshd8MfhYR/giphy.gif" width="35px"/></h2>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="300"/>
