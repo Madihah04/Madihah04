@@ -1,6 +1,11 @@
+h1 {
+    color: #4997d0;
+    font-family:verdana;
+}
+
 <h1 align="center"><img src="https://media.giphy.com/media/lgPVnjdVYshd8MfhYR/giphy.gif" width="50px"/><img src="https://media.giphy.com/media/By0BVzrbAZ0Eo/giphy.gif" width="50px"/>Holla, I'm Madihah ! 
 <img src="https://media.giphy.com/media/By0BVzrbAZ0Eo/giphy.gif" width="50px"/><img src="https://media.giphy.com/media/lgPVnjdVYshd8MfhYR/giphy.gif" width="50px"/></h1>
-</h1>
+
 <h3 align="center">A passionate data enginering student</h3>
 
 <div id="header" align="center">
