@@ -25,7 +25,7 @@
 <hr>
 
 - 🔭 I’m currently seeking for internship
-- 📫 How to reach me: `**madihahchezabri29@gmail.com**`
+- 📫 How to reach me: **madihahchezabri29@gmail.com**
 - 🎭 I believe in learn-teach-learn</li>
 - 🔭 I like data insights and am currently exploring Machine Learning</li>
 - 🌍 I am mostly active </li>
