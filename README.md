@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://media.giphy.com/media/lgPVnjdVYshd8MfhYR/giphy.gif" width="35px"/><img src="https://media.giphy.com/media/By0BVzrbAZ0Eo/giphy.gif" width="30px"/><a href="https://madihah04.github.io"><img width="80%" alt="Holla, I'm Madihah." src="Madihah.png" /></a>
+<h1 align="center"><img src="https://media.giphy.com/media/lgPVnjdVYshd8MfhYR/giphy.gif" width="35px"/><img src="https://media.giphy.com/media/By0BVzrbAZ0Eo/giphy.gif" width="30px"/><a href="https://madihah04.github.io"><img width="40%" alt="Holla, I'm Madihah." src="Madihah.png" /></a>
 <img src="https://media.giphy.com/media/By0BVzrbAZ0Eo/giphy.gif" width="30px"/><img src="https://media.giphy.com/media/lgPVnjdVYshd8MfhYR/giphy.gif" width="35px"/></h1>
 
 <h3 align="center">A passionate data enginering student</h3>
