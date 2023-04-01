@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#4997d0;"><img src="https://media.giphy.com/media/lgPVnjdVYshd8MfhYR/giphy.gif" width="50px"/><img src="https://media.giphy.com/media/By0BVzrbAZ0Eo/giphy.gif" width="50px"/>Holla, I'm Madihah !
+<h1 align="center" style="color:4997d0;"><img src="https://media.giphy.com/media/lgPVnjdVYshd8MfhYR/giphy.gif" width="50px"/><img src="https://media.giphy.com/media/By0BVzrbAZ0Eo/giphy.gif" width="50px"/>Holla, I'm Madihah !
 <img src="https://media.giphy.com/media/By0BVzrbAZ0Eo/giphy.gif" width="50px"/><img src="https://media.giphy.com/media/lgPVnjdVYshd8MfhYR/giphy.gif" width="50px"/></h1>
 
 <h3 align="center">A passionate data enginering student</h3>
@@ -34,6 +34,10 @@
 - 📚 I have </li>
 - ⚡  I have been </li>
 - 🌐 I am an </li>
+- 💼 FrontEnd Engineer at [UTM](https://www.utm.my/)
+- 📈 Built 
+- ❤️ I love writing 
+- 💬 Ask me about anything [here](https://github.com/madihah04/madihah04/issues)
 
 <hr>
 <br>
