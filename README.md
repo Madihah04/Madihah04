@@ -34,7 +34,7 @@
 - 📚 I have </li>
 - ⚡  I have been </li>
 - 🌐 I am an </li>
-- 💼 FrontEnd Engineer at [UTM](https://www.utm.my/)
+- 💼 Student at [UTM](https://www.utm.my/)
 - 📈 Built 
 - ❤️ I love writing 
 - 💬 Ask me about anything [here](https://github.com/madihah04/madihah04/issues)
