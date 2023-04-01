@@ -1,6 +1,6 @@
 <h1 align="center">Holla, I'm Madihah ! 
 <img src="https://media.giphy.com/media/By0BVzrbAZ0Eo/giphy.gif" width="50px"/>
-<img src="https://media.giphy.com/media/MGk7atGEkgm71ZAkTv/giphy.gif" width="50px"/></h1>
+<img src="https://media.giphy.com/media/lgPVnjdVYshd8MfhYR/giphy.gif" width="50px"/></h1>
 </h1>
 <h3 align="center">A passionate data enginering student</h3>
 
