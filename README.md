@@ -29,6 +29,7 @@
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+<hr>
 
 - 🔭 I’m currently seeking for internship
 - 📫 How to reach me **madihahchezabri29@gmail.com**
@@ -40,6 +41,7 @@
 - ⚡  I have been </li>
 - 🌐 I am an </li>
 
+<hr>
 <br>
 <br>
 <br>
