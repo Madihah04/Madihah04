@@ -1,5 +1,5 @@
 <h1 align="center">Holla, I'm Madihah ! 
-<img src="https://media.giphy.com/media/kjDQ00nkmCrCezmje0/giphy.gif" width="80px"/></h1>
+<img src="https://media.giphy.com/media/eGmgF0V90QIgpMv4WQ/giphy.gif" width="80px"/></h1>
 <h3 align="center">A passionate data enginering student</h3>
 
 <div id="header" align="center">
