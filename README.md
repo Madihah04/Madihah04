@@ -19,15 +19,8 @@
   
 </div>
 
-<br>
-<br>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=madihah04&label=Profile%20views&color=0e75b6&style=flat" alt="madihah04" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madihah04&column=7&margin-w=15&margin-h=15" alt="madihah04" /></a> </p>
-
-
-<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <hr>
 
@@ -37,7 +30,7 @@
 - 🔭 I like data insights and am currently exploring Machine Learning</li>
 - 🌍 I am mostly active on my Blog and within the CodeProject Community</li>
 - 💬 I work on building applications and learning MongoDB</li>
-- 📚 I have published many articles on CodeProject, Medium (and my blog)</li>
+- 📚 I have </li>
 - ⚡  I have been </li>
 - 🌐 I am an </li>
 
@@ -45,6 +38,12 @@
 <br>
 <br>
 <br>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madihah04&column=7&margin-w=15&margin-h=15" alt="madihah04" /></a> </p>
+
+
+<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 <br>
 
 <h3 align="center">Languages and Tools:</h3>
