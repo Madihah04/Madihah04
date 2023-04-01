@@ -1,5 +1,5 @@
 <p align="center"<a href="https://madihah04.github.io"><img width="100%" alt="header" src="header.png" /></a></p>
-
+<hr>
 <h1 align="center"><img src="https://media.giphy.com/media/lgPVnjdVYshd8MfhYR/giphy.gif" width="35px"/><img src="https://media.giphy.com/media/By0BVzrbAZ0Eo/giphy.gif" width="30px"/>WELCOME TO MY GITHUB!<img src="https://media.giphy.com/media/By0BVzrbAZ0Eo/giphy.gif" width="30px"/><img src="https://media.giphy.com/media/lgPVnjdVYshd8MfhYR/giphy.gif" width="35px"/></h1>
 
 <div id="header" align="center">
