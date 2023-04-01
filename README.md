@@ -1,4 +1,4 @@
-<h1 align="center">Holla, I'm Madihah 
+<h1 align="center">Holla, I'm Madihah ! 
 <img src="https://media.giphy.com/media/Rpm7zINbHhG3YsXi7g/giphy.gif" width="50px"/></h1>
 <h3 align="center">A passionate data enginering student</h3>
 
@@ -30,15 +30,15 @@
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-- 🔭 I’m currently working on [https:](https:)
+- 🔭 I’m currently seeking for internship
 - 📫 How to reach me **madihahchezabri29@gmail.com**
 - 🎭 I believe in learn-teach-learn</li>
 - 🔭 I like data insights and am currently exploring Machine Learning</li>
 - 🌍 I am mostly active on my Blog and within the CodeProject Community</li>
-- 💬 I work on building E2E solutions for Web and Desktop applications</li>
+- 💬 I work on building applications and learning MongoDB</li>
 - 📚 I have published many articles on CodeProject, Medium (and my blog)</li>
-- ⚡  I have been Microsoft MVP ASP.NET: 2012, 2013, 2014 & CodeProject MVP: 2011, 2012, 2013, 2014</li>
-- 🌐 I am an active member of Innovation Catalyst Community</li>
+- ⚡  I have been </li>
+- 🌐 I am an </li>
 
 <br>
 <br>
