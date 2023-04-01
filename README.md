@@ -1,4 +1,6 @@
-<h1 align="center">Holla, I'm Madihah ! 
+<h1 align="center">
+  <img src="https://media.giphy.com/media/lgPVnjdVYshd8MfhYR/giphy.gif" width="50px"/></h1>
+  Holla, I'm Madihah ! 
 <img src="https://media.giphy.com/media/By0BVzrbAZ0Eo/giphy.gif" width="50px"/>
 <img src="https://media.giphy.com/media/lgPVnjdVYshd8MfhYR/giphy.gif" width="50px"/></h1>
 </h1>
