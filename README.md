@@ -55,7 +55,7 @@
 <br>
 <br>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madihah04&show_icons=true&locale=en&layout=compact&show_icons=true&theme=gotham" alt="Madihah" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madihah04&show_icons=true&locale=en&layout=compact&show_icons=true&theme=solarized-light" alt="Madihah" />
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=madihah04&show_icons=true&theme=solarized-light" alt="Madihah" />
 
