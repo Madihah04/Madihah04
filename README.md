@@ -27,16 +27,18 @@
 - 🔭 I’m currently seeking for internship
 - 📫 How to reach me: **madihahchezabri29@gmail.com**
 - 🎭 I believe in learn-teach-learn</li>
-- 🔭 I like data insights and am currently exploring Machine Learning</li>
-- 🌍 I am mostly active </li>
-- 💬 I work on building applications and learning MongoDB</li>
-- 📚 I have </li>
-- ⚡  I have been </li>
-- 🌐 I am an </li>
+- 🔭 I like data insights and am currently exploring MongoDB</li>
+<!-- - 🌍 I am mostly active </li> -->
+<!-- - 💬 I work on building applications and learning MongoDB</li> -->
+<!-- - 📚 I have </li> -->
+<!-- - ⚡  I have been </li> -->
+<!-- - 🌐 I am an </li> -->
 - 💼 Data Engineering Student at [UTM](https://www.utm.my/)
-- 📈 Built 
-- ❤️ I love to learn 
+<!-- - 📈 Built -->
+<!-- - ❤️ I love to learn -->
 - 💬 Ask me about anything [here](https://github.com/madihah04/madihah04/issues)
+
+<!-- Write your comments here -->
 
 <hr>
 <br>
